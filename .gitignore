@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Build results
+pin_omp
+pin_pt
+pin_mpi
